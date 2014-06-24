@@ -1,4 +1,4 @@
 {
-	"patch.js": 3537890445,
+	"patch.js": 1019546225,
 	"th13/front/agauge1.png": 3652099471
 }

@@ -1,5 +1,5 @@
 {
-	"patch.js": 184736852,
+	"patch.js": 2749998763,
 	"th128/ascii/medal00.png": 2075304459,
 	"th128/bullet/ice00.png": 583301590,
 	"th128/bullet/icefield.png": 2225725005,
