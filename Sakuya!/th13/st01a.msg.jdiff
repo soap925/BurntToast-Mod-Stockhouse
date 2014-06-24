@@ -1,0 +1,104 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Where is that ghost?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You're late."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Wait, you're not Reimu,",
+                "You're that maid."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Ah, it's a long story."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "So, where are the spirits coming from?",
+                "And how did they escape Hakugyokurou?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Mm, these are divine spirits,",
+                "Fleeting thoughts, born from the prayers of humans."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "And?",
+                "What does it have to do with the incident?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Ghostly as they maybe,",
+				"They are not related to the spirits here."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Anyways, if you want to get past here,",
+                "You'll have to get through me!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wait...",
+                "Isn't that Reimu's power?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "It is.",
+                "She gave it to me."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I see.",
+                "So that's why she agreed."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Hm...",
+                "You can get past here."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Anyway, where are they coming from?",
+                "And why didn't you resolve the incident yourself?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "They set up some ghost barrier",
+				"On the graveyard behind the temple."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Whatever they're protecting,",
+				"It looks like it's really important."
+            ]   
+        },
+        "86_0": {
+            "lines": [
+                "Hmm..."
+            ]
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "2": {
+        "34_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hey, you!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You've already seen that girl that's keeping watch?
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "She can take such a beating,",
+                "It's not even funny anymore..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Soo, why don't you try your luck?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "This sounds really wrong..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Please don't intervene in my mission,",
+                "Or you'll face the consequences."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hmm.",
+                "Where is that youkai she mentioned?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "She said she was "Keeping Watch"",
+                "But over what?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You shall not venture any deeper here!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Oh! so you're that girl she mentioned?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Hm? I am a Jiang-Shi,",
+				"Deployed here to guard this mausoleum."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "This seems interesting.",
+				"What is behind there?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I won't tell you.",
+				"I'm not that dense..."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Not as braindead as you'd think of a zombie."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "So you're an intruder, I take it."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'm here to check on these divine spirits."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I don't know any divine spirits.",
+                "Sounds tasty..."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Erh.",
+                "It's time for you to get back to your grave."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Whatever the case,",
+                "I was resurrected to guard this are from anyone!"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Leave or become one of us!",
+                "Via this danmaku awakened from a deep sleep!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Aaaargh!",
+                "You've killed me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Now, tell me!",
+                "What were you protecting?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "U-Uh...",
+                "Ah... Uh..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Was I too harsh with her?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Zombies are eternal and undying!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So what is it you're here for??"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I don't have much time for chitchat.",
+                "You don't seem like you'll be of much more use."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I'll just keep on with my mission"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Aaah..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Wake me up when it's time, please?"
+            ]
+        }
+    }
+}
