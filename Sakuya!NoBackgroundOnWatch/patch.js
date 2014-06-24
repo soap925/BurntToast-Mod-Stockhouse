@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"nmlgc/lang_en"
+		"thpatch/lang_en"
 	],
 	"id": "Sakuya!NoBackgroundOnWatch",
 	"servers": [
