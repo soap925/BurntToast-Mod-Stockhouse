@@ -1,6 +1,7 @@
 {
 	"dependencies": [
-		"thpatch/lang_en"
+		"thpatch/lang_en",
+		"Toaster/Sakuya!"
 	],
 	"id": "Sakuya!NoBackgroundOnWatch",
 	"servers": [
