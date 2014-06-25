@@ -122,7 +122,7 @@
 	"th13/st02b.msg": 765885323,
 	"th13/st02b.msg.jdiff": 2584132240,
 	"th13/st03a.msg": 1003939353,
-	"th13/st03a.msg.jdiff": 460173877,
+	"th13/st03a.msg.jdiff": 3379337070,
 	"th13/st03b.msg": 2759444106,
 	"th13/st03b.msg.jdiff": 460173877,
 	"th13/st04a.msg": 1289106536,
