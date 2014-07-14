@@ -1,0 +1,171 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "An intruder? That's something new.",
+                "I guess you'd be after our treasury."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Like I care about your trash.",
+                "You'll get what you deserve for what you've done to me!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh? I don't remember seeing you before.",
+                "But I'll show no mercy to anyone who disturbs our cause!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Oh god, you're so strong!",
+                "Got to retreat for now..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Yes, run!",
+                "It's more fun that way!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "She's leading me right where I want to go."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Whatever you're after",
+                "I'm now ready to fend you off!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "You really think so?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Nothing can stop me normally.",
+                "And you're trying to defeat me in my current condition?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "My faith lets me do anything that is necessary."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I, Ichirin, am the guard of this ship",
+				"and noone will pass!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I won't let any scoundrels in alive!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Calling me a scoundrel?",
+                "How rude!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I'm not someone you'd want to mess with",
+                "so prepare yourself."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "My conviction is unwavering!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "I'll beat that conviction out of you",
+                "and your companions."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Huh?",
+                "She collected and brought them here?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "What are you on about now?",
+                "Don't stray from the topic."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "My partner told me",
+                "that you found the lost fragments of the floating vault."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, so you carelessly throw out your possessions",
+                "without even considering the damage that could cause"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "and call ME an scoundrel?!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "So you won't cooperate... I guess that",
+                "leaves me with no choice but to take them from you by force!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Ack, such power. Too overwhelming...",
+                "I have failed you, sister..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You only get what you deserve."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "But what did I do to be violated like this?",
+                "I am but a modest nun..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Pah, a two-faced liar. That is what you are. You are well aware",
+                "of your wrongdoings. Dumping trash into nature is just wrong!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Eh, what? We didn't dump anything!",
+                "We don't even carry any possessions on us!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Silence!",
+                "You damaged my precious flowers and everyone shall pay!"
+            ]
+        }
+    }
+}

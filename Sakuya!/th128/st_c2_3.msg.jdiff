@@ -1,0 +1,142 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Raiko informed me about your request.",
+                "We all agreed on coming with you."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "That's great.",
+                "So then, where are the other two?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Not so fast. I still have to get back", 
+				"at you for beating up Yatsu. ~"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                " Ahh, should have seen that coming."
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Hah,",
+                "still as strong as last time I see."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "So you'll take me to the others?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "I'll take that as a yes."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Come on out now.",
+                "Enough with the hiding."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Well, aren't you a quick one. ~",
+                "This is the perfect spot."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Perfect spot for what?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Isn't everything settled now?",
+                "I already met the other two in person."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "So there's nothing more to discuss I guess..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "You're only party correct about this."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "We'll come and perform for sure, that's correct."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Well, what else is there then?"
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "I can't just let it rest that you beat me twice now."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "Me neither. It's a matter of pride.",
+                "And who knows when there'll be another opportunity."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "I'm with them.",
+                "And besides, it will be fun. ~"
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "O~okay.."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "If that is what you want, then go ahead.",
+                "I've already fought three people at once in the past."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Pah! Those shoddy sisters will never match us.",
+                "Now, Experience our overwhelming performance firsthand!"
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "Those three aren't so bad.",
+                "Don't be mean."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "But hey, I'll get to hear your music first. ~",
+                "Isn't that nice."
+            ]
+        },
+        "298_0": {
+            "lines": [
+                "So then, let's go!",
+                "I'll hold back so that you went get too beaten up!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I'm sure I heard music", 
+				"coming from this direction..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This forest is as confusing as ever...",
+                "Who'd really want to stay here?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It is rather hazardous, that's correct."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I got lost looking for my sister..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "You wouldn't happen to have seen her?."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "I'm afraid not.",
+                "But coincidentally I was looking for her as well."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "I'm not sure if you already met up with Raiko",
+                "but I wanted to invite you to play music at our festival."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "A festival? Well, it's our occupation to perform.",
+                "What's in it for us?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "You'd get to enjoy the party with a special VIP entrance.",
+				"There'd be many people, so it would be exciting."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "We haven't really performed for a large croud yet.",
+                "But sure, why not. I won't say no to such an offer."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "And you'll even help me find my sis,",
+                "so it's doubly helpful."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You know what I also haven't had in a while?",
+                "A proper danmaku battle. Let's go! ~"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Everybody seems to be riled up",
+                "by the light atmosphere."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Alright then, but don't run after I've won!",
+                "I won't go easy on you. ~"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well, that was alright."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Haa... I'm still so inexperienced.~",
+                "We should split up to look for Yatsu."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I'll look over there, you should go to the lake."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Wait! She's already gone."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I already looked in that direction...",
+                "Haa, maybe she's there now. Who knows."
+            ]
+        }
+    }
+}

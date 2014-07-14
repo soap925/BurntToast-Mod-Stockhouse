@@ -1,0 +1,109 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I've just been wandering around aimlessly so far..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You'd think these guys could be heard miles away."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So I've heard,",
+				"There's someone going around threatening my companions."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That's not nice, you know.",
+                "We just want to enjoy ourselves."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "But we can't do that,",
+				"with people like you around"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "I'm not threatening anybody.",
+                "She just misunderstood and attacked me."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Is that so? Then what is it you want from us?",
+                "It's not like busy. I'm always up to some shenanigans."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "My mistress is holding a flower-viewing party."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Oh, I see. You want us to perform.",
+                "That's allright. That is, if you're worthy of our presence. ~"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "And how do I do that? Play a drum-solo for you?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Of course not. That would be silly.",
+                "I can hear drums whenever I want."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "To prove your worth,",
+                "You'll have to defeat me!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Is that really necessary? If we must,",
+                "then we'll have a beautiful danmaku battle."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Is that enough?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Haha.",
+				"You're really strong allright. Like last time."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, you can count me in.",
+				"Let me go ahead and tell the others."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Well that went smoothly.",
+                "If only it always would go like this."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But I guess that would be boring after all.",
+                "I should follow her..."
+            ]
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Nothing's happened all day...",
+                "Can't someone show up? So boring..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Boring? How could you say such a thing",
+                "Wwith all this commotion going on around you?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "They're all fairies though.",
+                "You on the other hand look suspicious!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Very suspicious indeed.",
+                "I'll have to take you out!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Everyone's so aggressive today.",
+                "I just wanted to look around for a while."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Didn't she want to take me out or something?"
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "What is it you want?",
+                "There is nothing to be gained here."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I wish to cover all of Gensokyo in pretty flowers."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "... Yes, of course."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "You can't let flowers grow in the sky though.",
+                "And what do we have to do with that?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Why do I always get stuck with the weird people..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "You are underestimating me greatly.",
+                "But to be honest,"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "The sky is full of blossoms",
+                "and they seem to be emerging from here."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "<i$Blossoms?>",
+                "Well, you can't enter."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "We can't just have someone like you disturbing our plans.",
+                "You may investigate on the outside as long as you like."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Oh my. That's too bad.",
+                "What should I do now, I wonder? ~"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Dunno. Go home?",
+                "It's my duty to repel any intruder, so I won't let you through."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "That is not an option.",
+                "Get out of my way or I'll shoot you down."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Well isn't that a sudden change of mind.",
+                "There has yet to come anyone that is able bypass us."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "This is your last chance to flee!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Didn't you say that nobody came until now.",
+                "Of course you'd have a perfect record that way."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Silence! We'll smash you into the ground",
+                "so that you may watch your precious flowers from below!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How could I have failed?",
+                "Forgive me, lady Hijiri. I'm afraid I could not be of any help."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "At least you're devoted. Come now, make way."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Yea, yea. Go on ahead. Only an idiot would try again right away.",
+                "But please don't break anything, okay?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "What do you take me for?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Someone who would intrude into our ship and take our treasure."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Can't argue with that."
+            ]
+        }
+    }
+}

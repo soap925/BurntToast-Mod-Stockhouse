@@ -1,0 +1,108 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Where did she go?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I guess I lost her.",
+                "How unfortunate..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Lost who?",
+                "Are you looking for someone?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "There's No one here except for me,",
+				"and all these little fairies."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Actually I was looking at your sister.",
+                "I met her earlier and we had a misunderstanding."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "You wouldn't know where she is?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Like I'd know where Yatsu went off to.",
+                "Maybe I can help you instead?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Her shoddy music is no good anyway. ~"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "I could use both of you,", 
+				"now that you say it."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "You can't just go around talking about \"using\" us.",
+                "You should mind your words."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You can't just go around talking about \"using\" us.",
+                "You also beat us up back then, you're probably up to no good!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "And here we go again."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Just why do they take everything so literal?",
+                "I thought I was just going out on an errand..."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "That's enough now."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "That is not",
+                "up to you to decide."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "But I guess I should pull back,",
+				"and gather up with the others."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Maybe I should mind my words..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'll have to follow her this time.",
+                "hShe'll take me to the other one."
+            ]
+        }
+    }
+}
